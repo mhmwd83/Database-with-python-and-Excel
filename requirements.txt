@@ -1,0 +1,4 @@
+    easy_install pathlib
+    easy_install openpyxl
+    easy_install xlrd
+    easy_install pillow 
